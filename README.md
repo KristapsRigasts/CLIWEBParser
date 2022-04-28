@@ -14,4 +14,4 @@ ___
 
 * run command `composer install`
 * run command `php artisan cliWebParser url` - replace url with URL you want to parse.
-* utput data will be saved in output.json file
+* output data will be saved in output.json file
